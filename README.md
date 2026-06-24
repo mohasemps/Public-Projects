@@ -37,7 +37,7 @@ It combines a **Flask backend**, **SQLite relational database**, and a **modern 
 - Role-based access control (RBAC)
 - Secure cookie/session handling
 
-👤 Donor Management
+Donor Management
 - Register, update, and list donors
 - Support for individuals, corporate, and foundations
 - Active status management
@@ -65,7 +65,7 @@ Donation Tracking
 
 ---
 
- 🧱 Data Model
+ Data Model
 
 Tables
 
@@ -91,14 +91,14 @@ Dependencies auto-install via script.
 
 ---
 
-🌐 Access
+Access
 
 - Local: http://localhost:8000
 - Colab: auto-generated proxy URL
 
 ---
 
-🔑 Default Credentials
+Default Credentials
 
 | Role | Username | Password |
 |------|----------|----------|
@@ -108,7 +108,7 @@ Dependencies auto-install via script.
 
 ---
 
- 🔌 API Reference
+API Reference
 
  Authentication
 - GET /api/me
@@ -137,7 +137,7 @@ Reports
 
 ---
 
-🔒 Security Design
+Security Design
 
 - Password hashing (PBKDF2 + salt)
 - JWT token expiration (7 days)
@@ -146,7 +146,7 @@ Reports
 
 ---
 
-📦 Deployment
+Deployment
 
 ### Local Deployment
 ```bash
@@ -164,7 +164,7 @@ python app.py
 
 ---
 
-⚠️ Production Hardening
+Production Hardening
 
 - Replace SECRET_KEY
 - Enable HTTPS (secure cookies)
@@ -175,7 +175,7 @@ python app.py
 
 ---
 
-⚡ Advanced Enhancements (Future)
+Advanced Enhancements (Future)
 
 - Mobile Money Integration (MTN, Airtel)
 - AI Analytics Dashboard
@@ -185,7 +185,7 @@ python app.py
 
 ---
 
-📍 Use Cases
+Use Cases
 
 - NGO fundraising and tracking
 - Transparency dashboards
@@ -200,12 +200,12 @@ Production Ready – Final Stable Release (2026)
 
 ---
 
- 📜 License
+ License
 
 MIT License
 
 ---
 
- 🙌 Acknowledgment
+ Acknowledgment
 
 Built to support transparent and efficient humanitarian work in Uganda and beyond.
