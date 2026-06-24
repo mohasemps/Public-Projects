@@ -3,7 +3,7 @@ Gulu NGO Donation Tracker
 
 
 
-## 📌 Overview
+##  Overview
 
 The **Gulu NGO Donation Tracker** is a full-stack enterprise-ready donation management platform designed to support NGOs in managing donors, projects, and contributions with transparency, accountability, and efficiency.
 
@@ -11,7 +11,7 @@ It combines a **Flask backend**, **SQLite relational database**, and a **modern 
 
 ---
 
-## 🧭 System Architecture
+## System Architecture
 
 ```
 ┌───────────────────────┐
@@ -42,18 +42,18 @@ It combines a **Flask backend**, **SQLite relational database**, and a **modern 
 - Support for individuals, corporate, and foundations
 - Active status management
 
-📋 Project Management
+ Project Management
 - Create and monitor projects
 - Set goals and timelines
 - Automatic funding updates
 
-💰 Donation Tracking
+Donation Tracking
 - Record donations with full metadata
 - Multi-currency support
 - Anonymous donations
 - Auto-generated receipt numbers
 
-📊 Reporting & Analytics
+ Reporting & Analytics
 - Overall system statistics
 - Project-level reports
 - Donor contribution summaries
