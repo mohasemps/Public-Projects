@@ -9,7 +9,7 @@ The **Gulu NGO Donation Tracker** is a full-stack enterprise-ready donation mana
 
 It combines a **Flask backend**, **SQLite relational database**, and a **modern dashboard UI** to deliver real-time tracking and reporting.
 
----
+
 
 ## System Architecture
 
@@ -63,7 +63,7 @@ Donation Tracking
 - Tab-based navigation
 - Dynamic API-driven updates
 
----
+
 
  Data Model
 
@@ -79,7 +79,7 @@ Donation: Financial/in-kind contributions
 - Donor → Donations (1:N)
 - Project → Donations (1:N)
 
----
+
 
 ## ⚙️ Installation
 
@@ -89,14 +89,13 @@ python app.py
 
 Dependencies auto-install via script.
 
----
+
 
 Access
 
 - Local: http://localhost:8000
 - Colab: auto-generated proxy URL
 
----
 
 Default Credentials
 
@@ -106,7 +105,7 @@ Default Credentials
 | Finance | Finance | Nebraska@2014 |
 | Viewer | Viewer | Nebraska@2014 |
 
----
+
 
 API Reference
 
@@ -135,7 +134,7 @@ Reports
 - POST /api/users
 - PUT /api/users/{id}/role
 
----
+
 
 Security Design
 
@@ -144,7 +143,7 @@ Security Design
 - Role-based access control
 - Input validation
 
----
+
 
 Deployment
 
@@ -162,7 +161,7 @@ python app.py
 - Replace SQLite with PostgreSQL
 - Use environment variables for secrets
 
----
+
 
 Production Hardening
 
@@ -173,7 +172,7 @@ Production Hardening
 - Setup backups
 - Add rate limiting
 
----
+
 
 Advanced Enhancements (Future)
 
@@ -183,7 +182,7 @@ Advanced Enhancements (Future)
 - Multi-branch NGO support
 - Audit trails
 
----
+
 
 Use Cases
 
@@ -192,13 +191,13 @@ Use Cases
 - Donor reporting systems
 - Community aid projects
 
----
+
 
 Status
 
-Production Ready – Final Stable Release (2026)
+Production Ready 
 
----
+
 
  License
 
